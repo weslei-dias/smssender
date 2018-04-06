@@ -19,8 +19,8 @@ public class PapovaiHttpClientConnector {
 	private static final String GET_REQUEST = HOST + "/get/";
 	private static final String SEARCH_REQUEST = HOST + "/search/";
 
-	private static final String USER = "dias.wesleirodrigues@gmail.com";
-	private static final String PASSWORD = "761410";
+	private static final String USER = "<EMAIL>;
+	private static final String PASSWORD = "<SENHA>";
 	private static final String RETURN_FORMAT = "json";
 
 	private static final String ENCODING = "UTF-8";
